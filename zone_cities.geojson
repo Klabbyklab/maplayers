@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "zone_cities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Woodstock", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -80.7562977, 43.1301111 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Stratford", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -80.9818016, 43.3700899 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Brantford", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -80.2631733, 43.1408157 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Hamilton", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -79.8728583, 43.2560802 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Burlington", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -79.7966835, 43.3248924 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "Cambridge", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -80.3123023, 43.3600536 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "Oakville", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -79.666672, 43.447436 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "Kitchener", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -80.4927815, 43.451291 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "Waterloo", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -80.5222961, 43.4652699 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "name": "Guelph", "place": "city" }, "geometry": { "type": "Point", "coordinates": [ -80.2493276, 43.5460516 ] } }
+]
+}
